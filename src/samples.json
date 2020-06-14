@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "title": "Alien",
+        "director": "J. Cameron",
+        "year": "1980",
+        "rating": "5"
+    },
+    {
+        "id": "2",
+        "title": "Predator",
+        "director": "C. Nolan",
+        "year": "1985",
+        "rating": "4.5"
+    },
+    {
+        "id": "3",
+        "title": "Jungla de cristal",
+        "director": "V. Diesel",
+        "year": "1987",
+        "rating": "2"
+    }
+]
